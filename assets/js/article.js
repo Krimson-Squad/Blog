@@ -3,7 +3,7 @@ const sub_url = urlParams.get('view');
 const final_url = '/article.html?view='+sub_url;
  function bring_post(post_url) {
     var xhr = new XMLHttpRequest();
-    var url = "./data/json/post.json"; // Replace with your API endpoint
+    var url = "./data/json/post.json"; 
     xhr.open("GET", url, true);
     xhr.responseType = "json";
     xhr.onload = function () {
