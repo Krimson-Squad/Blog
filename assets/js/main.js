@@ -16,8 +16,10 @@ function bring_posts() {
       pages.forEach(function (page) {
         if (page.featured == "true") {
           console.table(page);
+          document.getElementById("featured-github-link").href = page.github_link;
+          document.getElementById("featured-link").href = page.url;
           document.getElementById("highlighted_topic").innerText = page.title;
-          document.getElementById("highlighted_content").innerText = page.description;
+          document.getElementById("highlighted_content").innerText = page.adescription;
           document.getElementById("highlighted_banner").src = page.image_url;
         }
         else {
