@@ -18,6 +18,9 @@ const final_url = '/article.html?view='+sub_url;
                     if(page.image_url == "N/A"){
                         document.getElementById("img").src = "./favicon.ico"
                     }
+                    if(page.image_url !== "N/A"){
+                        document.getElementById("img").src = page.image_url;
+                    }
                     if(page.content == "loading..."){
                         document.getElementById('content').innerText = page.description;
                     }
