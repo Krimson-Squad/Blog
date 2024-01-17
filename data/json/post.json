@@ -1,16 +1,6 @@
 {
     "result": [
-        {
-            "title": "Andro-Predom",
-            "url": "/article.html?view=andro-predom-2080",
-            "description": "A Pentesting tool aimed to expose the possible risks of exploiting an android phone through adb commands simulated through the programme which comprises a range of exploiting and exposing features. ",
-            "content": "Android-Predom is a powerful tool that interacts with the Android Debug Bridge (ADB) and is inspired by the popular Python-based exploiting tool Ghost. This tool is a part of a private project called PREDOMINANT and is designed to be fully integrated into the shell. The tool provides many new features and is actively being updated by the developer.One of the key advantages of Android-Predom is that it does not require root control over the device. This is a significant improvement over other projects that interact with ADB, as they often require root access and can be difficult to use. This tool is user-friendly and easy to use, making it a great option for both novice and experienced developers.Another important feature of Android-Predom is that it is constantly being updated. The developer is actively working on improving the tool and adding new features, making it a powerful and versatile option for developers. This tool is continuously updated to support the new versions of Android and is known for its stability and reliability.One of the most important aspects of Android-Predom is that it is a part of a larger project called PREDOMINANT. The ultimate goal of this project is to create a comprehensive set of tools for Android app development, making it easier for developers to create and test their apps. The developer is continuously working on integrating new features and tools into the project, making it a one-stop solution for all Android app development needs.In conclusion, Android-Predom is a powerful and versatile tool for Android app development. It is user-friendly, does not require root access, and is actively being updated by the developer. The tool is a part of a larger project called PREDOMINANT which aims to provide a comprehensive set of tools for Android app development. We hope that you will give Android-Predom a try and experience the benefits it has to offer."
-,
-            "featured": "false",
-            "image_url": "https://github.com/devsdenepal/andro-predom/raw/main/ScreenShot_20230101193530.jpeg",
-            "github_link": "https://github.com/Krimson-Squad/andro-predom",
-            "tag": "Shell"
-        },
+        
 
         {
             "title": "xupa-rustam",
@@ -21,6 +11,17 @@
             "image_url": "https://raw.githubusercontent.com/devsdenepal/xupa-rustam/main/screenshots/IMG-20230403-WA0022.jpg",
             "github_link": "https://github.com/Krimson-Squad/xupa-rustam",
             "tag": "Python"
+        },
+        {
+            "title": "Andro-Predom",
+            "url": "/article.html?view=andro-predom-2080",
+            "description": "A Pentesting tool aimed to expose the possible risks of exploiting an android phone through adb commands simulated through the programme which comprises a range of exploiting and exposing features. ",
+            "content": "Description \n --- \n Android-Predom is a powerful tool that interacts with the Android Debug Bridge (ADB) and is inspired by the popular Python-based exploiting tool Ghost.\n This tool is a part of a private project called PREDOMINANT and is designed to be fully integrated into the shell. The tool provides many new features and is actively being updated by the developer. \n One of the key advantages of Android-Predom is that it does not require root control over the device. This is a significant improvement over other projects that interact with ADB, as they often require root access and can be difficult to use. \n This tool is user-friendly and easy to use, making it a great option for both novice and experienced developers.Another important feature of Android-Predom is that it is constantly being updated. \n  The developer is actively working on improving the tool and adding new features, making it a powerful and versatile option for developers. This tool is continuously updated to support the new versions of Android and is known for its stability and reliability. \n One of the most important aspects of Android-Predom is that it is a part of a larger project called PREDOMINANT. The ultimate goal of this project is to create a comprehensive set of tools for Android app development, making it easier for developers to create and test their apps. \n The developer is continuously working on integrating new features and tools into the project, making it a one-stop solution for all Android app development needs.\n In conclusion, Android-Predom is a powerful and versatile tool for Android app development. It is user-friendly, does not require root access, and is actively being updated by the developer. The tool is a part of a larger project called PREDOMINANT which aims to provide a comprehensive set of tools for Android app development. \n We hope that you will give Android-Predom a try and experience the benefits it has to offer."
+,
+            "featured": "false",
+            "image_url": "https://github.com/devsdenepal/andro-predom/raw/main/ScreenShot_20230101193530.jpeg",
+            "github_link": "https://github.com/Krimson-Squad/andro-predom",
+            "tag": "Shell"
         },
         {
             "title": "PhantomBlitz",
