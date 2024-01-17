@@ -15,6 +15,7 @@ const final_url = '/article.html?view='+sub_url;
             pages.forEach(function (page) {
                 if (page.url == post_url) {
                     document.getElementById('title').innerText = page.title;
+                    document.getElementById('t-l').href = page.github_link;
                     if(page.image_url == "N/A"){
                         document.getElementById("img").src = "./favicon.ico"
                     }
