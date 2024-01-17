@@ -1,7 +1,6 @@
 {
     "result": [
         
-
         {
             "title": "xupa-rustam",
             "url": "/article.html?view=xupa-rustam-2080",
@@ -43,26 +42,58 @@
             "github_link":"https://github.com/Krimson-Squad/ShadowCipher",
             "tag":"Python"
             },
-        {
-            "title": "unvetion",
-            "url": "/article.html?view=unvetion-2080",
-            "description": "MINI RECON PROJECT.",
-            "content": "loading...",
-            "featured": "false",
-            "image_url": "https://github.com/Krimson-Squad/unvetion/blob/main/Screenshot%202023-09-16%20171301.png?raw=true",
-            "github_link": "https://github.com/Krimson-Squad/unvetion",
-            "tag": "Python"
-        },
-        {
-            "title": "Common Techniques & Software ",
-            "url": "/article.html?view=common-techniques-n-software-2080",
-            "description": "List of common T1 and SO(s) used by Threat groups.",
-            "content": "loading...",
-            "featured": "false",
-            "image_url": "https://github.com/Krimson-Squad/common-techniques-n-software/assets/111997815/4fa87712-b119-4779-810a-227b3d76c48b",
-            "github_link": "https://github.com/Krimson-Squad/common-techniques-n-software",
-            "tag": "Markdown"
-        },
+            {
+                "title": "GitHub Actions : Beginner’s Insight into Streamlining Workflows",
+                "url": "/article.html?view=article-03-2080",
+                "description": "The GitHub Actions has been a game-changer for me. The sheer power of automating workflows, enabling seamless code building, testing, and deployment directly from GitHub, has transformed the way I approach development.",
+                "content":"Medium Article (Click title to see) \n --- \n If you’ve absolutely no idea of what Github Action does, think of it as a helpful assistant that takes charge of testing and deploying your code automatically. It functions like a tool that does the heavy lifting — building, checking, and dispatching your code without needing your constant manual intervention. With its setup, you ensure that each time you make changes, your code gets thoroughly tested, and once it meets the criteria, it’s smoothly sent to its destination.",
+                "featured": "false",
+                "image_url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*A6WaXCcfDEfTl08DJUoTdw.gif",
+                "github_link": "https://medium.com/towardsdev/github-actions-starter-pack-beginners-insight-into-streamlining-workflows-36332416992d",
+                "tag": "Article"
+            },
+            {
+                "title": "unvetion",
+                "url": "/article.html?view=unvetion-2080",
+                "description": "MINI RECON PROJECT.",
+                "content": "loading...",
+                "featured": "false",
+                "image_url": "https://github.com/Krimson-Squad/unvetion/blob/main/Screenshot%202023-09-16%20171301.png?raw=true",
+                "github_link": "https://github.com/Krimson-Squad/unvetion",
+                "tag": "Python"
+            },
+            {
+                "title": "Foundations for Fluent Code: Essential Tips for Beginner Programmers",
+                "url": "/article.html?view=article-02-2080",
+                "description": "Whether you code for leisure or as a profession, maintaining fluency in your code is crucial. Picture a scenario: your project is functioning well, and you’re eager to enhance it with additional plugins, features, or modules. However, when asking a colleague to contribute, their reluctance becomes apparent as the code lacks clarity and is challenging to modify.",
+                "content":"Medium Article (Click title to see) \n --- \n The code refers to the process of inputting commands using a specific language that computers can interpret, allowing for the construction of websites, applications, and software. But, what is Fluent? \n The subject we’re discussing is commonly known as “Coding Practices”. \nHere we’re using term fluent, for the code which can be:- \n - Modified Easily \n - Read \n - Safe \n- Efficient",
+                "featured": "false",
+                "image_url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*vsd5MYsjY0H0uVfNPP8aPA.png",
+                "github_link": "https://medium.com/@devgautamkumar/foundations-for-fluent-code-essential-tips-for-beginner-programmers-55925c881495",
+                "tag": "Article"
+            },
+            {
+                "title": "Common Techniques & Software ",
+                "url": "/article.html?view=common-techniques-n-software-2080",
+                "description": "List of common T1 and SO(s) used by Threat groups.",
+                "content": "loading...",
+                "featured": "false",
+                "image_url": "https://github.com/Krimson-Squad/common-techniques-n-software/assets/111997815/4fa87712-b119-4779-810a-227b3d76c48b",
+                "github_link": "https://github.com/Krimson-Squad/common-techniques-n-software",
+                "tag": "Markdown"
+            },
+            {
+                "title": "Factors Influencing Password Choices: A Comprehensive Guide to Password Security",
+                "url": "/article.html?view=article-01-2080",
+                "description": "Passwords are the keys that unlock our digital lives. They protect our personal information, online accounts, and sensitive data from cybercriminals. Yet, many people still use weak and easily guessable passwords, putting themselves and their online identities at risk. In this article, we’ll explore the different factors that influence password choices and provide tips on how to create strong and secure passwords.",
+                "content":"Medium Article (Click title to see) \n --- \n Password security is essential for protecting our online identities and sensitive information. It’s important to create strong and secure passwords that are difficult to guess or crack. By following the factors outlined in this article, such as memorability, complexity, length, personal background, security requirements, and convenience, you can create passwords that are both easy to remember and secure.",
+                "featured": "false",
+                "image_url": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*ma2jzUHQvkz9EfeVrvtXsw.jpeg",
+                "github_link": "https://medium.com/@devgautamkumar/factors-influencing-password-choices-a-comprehensive-guide-to-password-security-719b90d78d38",
+                "tag": "Article"
+            },
+     
+      
         {
             "title": "WebSecProbe",
             "url": "/article.html?view=webSecProbe-2080",
